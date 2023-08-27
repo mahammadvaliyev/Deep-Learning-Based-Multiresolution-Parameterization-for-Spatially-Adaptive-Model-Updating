@@ -23,4 +23,4 @@ Code was tested with the following setup:
 - see other required libraries in requirements.txt file
 
 ## Data
-- Gaussian data used for training architectures can be found at: https://drive.google.com/file/d/1oHDc_efzUjqnr-Vmp6bwH-pkSez_gyow/view?usp=drive_link
+- Gaussian data used for training architectures can be found at: https://rb.gy/vc98w
