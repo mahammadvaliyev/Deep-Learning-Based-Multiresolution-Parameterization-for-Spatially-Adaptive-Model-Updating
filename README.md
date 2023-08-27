@@ -6,8 +6,7 @@ This paper presents a new deep learning-based parameterization approach for mode
 
 ## Methods
 ![image](https://github.com/mahammadvaliyev/Deep-Learning-Based-Multiresolution-Parameterization-for-Spatially-Adaptive-Model-Updating/assets/68789630/f2195080-0618-464a-aa2c-abf4cab3e4db)
-
 </br>
 </br>
-
+</br>
 ![image](https://github.com/mahammadvaliyev/Deep-Learning-Based-Multiresolution-Parameterization-for-Spatially-Adaptive-Model-Updating/assets/68789630/d7f95313-57ed-426e-8cb6-2353ac7ae81f)
