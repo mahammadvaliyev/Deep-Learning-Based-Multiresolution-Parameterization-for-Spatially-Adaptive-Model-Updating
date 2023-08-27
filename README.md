@@ -21,3 +21,6 @@ Code was tested with the following setup:
 - Python 3.8.8
 - tensorflow 2.6, keras 2.6
 - see other required libraries in requirements.txt file
+
+## Data
+- Gaussian data used for training architectures can be found at: https://drive.google.com/file/d/1oHDc_efzUjqnr-Vmp6bwH-pkSez_gyow/view?usp=drive_link
