@@ -14,3 +14,10 @@ This paper presents a new deep learning-based parameterization approach for mode
 </br>
 </br>
 ![image](https://github.com/mahammadvaliyev/Deep-Learning-Based-Multiresolution-Parameterization-for-Spatially-Adaptive-Model-Updating/assets/68789630/d7f95313-57ed-426e-8cb6-2353ac7ae81f)
+
+## Requirements
+Code was tested with the following setup:
+- Windows 11
+- Python 3.8.8
+- tensorflow 2.6, keras 2.6
+- see other required libraries in requirements.txt file
